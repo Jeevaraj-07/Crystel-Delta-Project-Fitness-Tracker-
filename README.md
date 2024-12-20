@@ -20,8 +20,6 @@ Technical Highlights
 
 Modern UI/UX Design for a seamless user experience.
 
-Built with Node.js, Express.js, MongoDB, and Chart.js.
-
 Scalable and secure backend infrastructure.
 
 "This isn't just a tracker—it's your personal fitness assistant. It's Ready to transform you the way it track fitness."
